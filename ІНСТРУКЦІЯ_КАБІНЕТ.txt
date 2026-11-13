@@ -1,0 +1,16 @@
+EVENTORIA — виправлення форми + реєстрація користувачів
+
+1. Завантажте на GitHub усі 7 файлів .html/.js/.css із архіву в корінь репозиторію (не SQL і не інструкцію; SQL використовується в Supabase).
+2. Для справжніх акаунтів і замовлень створіть окремий проєкт Supabase: https://supabase.com/dashboard
+3. У Supabase -> SQL Editor створіть новий запит, вставте вміст supabase-schema.sql та виконайте його.
+4. У Supabase -> Project Settings / API або Connect знайдіть Project URL і publishable/anon key.
+   Відкрийте supabase-config.js, впишіть їх у дві лапки, збережіть, завантажте цей файл на GitHub.
+   НІКОЛИ не вставляйте service_role або secret key.
+5. Authentication -> URL Configuration: Site URL = https://bt2517-cell.github.io/EVENTORIA.UA/
+   Додайте redirect URL: https://bt2517-cell.github.io/EVENTORIA.UA/**
+   У Authentication -> Providers -> Email активуйте реєстрацію через email.
+6. Після оновлення GitHub Pages перевірте account.html: зареєструйте тестовий акаунт, підтвердьте email, увійдіть і оформіть тестове замовлення в order.html. Замовлення з’явиться в «Мій кабінет».
+7. Дані зберігаються в таблиці Supabase public.customer_orders, не в браузері. Політики RLS дозволяють кожному користувачеві читати тільки свої замовлення.
+
+ВАЖЛИВО: стара admin.html не є захищеною серверною адмінпанеллю; заявок з Supabase вона поки не показує. Для менеджера потрібна окрема авторизована панель із серверними ролями. Повідомлення на пошту не надсилаються.
+Не публікуйте реальні контактні дані клієнтів до перевірки безпеки, політики конфіденційності та процесу обробки персональних даних.

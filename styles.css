@@ -274,3 +274,22 @@ h2 em,h1 em{color:var(--rose);font-weight:400}
  .dark-section::before, .dark-cta-accent, .brief-side-mark, .contact-star {display:none!important;}
  .categorytile .arrow {font-family:Arial,sans-serif!important; font-size:21px!important;}
 }
+
+/* EVENTORIA: desktop order-form fix, no changes to mobile photography. */
+@media (min-width: 761px) {
+  .contactgrid {grid-template-columns:minmax(0,1fr) minmax(270px,.62fr);gap:28px;}
+  .contactgrid > * {min-width:0;}
+  .checkgrid {grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;}
+}
+.checkoption {display:flex;align-items:center;justify-content:flex-start;gap:12px;min-width:0;min-height:64px;padding:12px 14px;text-align:left;line-height:1.5;font-size:13px;overflow-wrap:anywhere;}
+.checkoption input[type="checkbox"] {appearance:auto;-webkit-appearance:checkbox;box-sizing:border-box;display:block;flex:0 0 19px;width:19px;height:19px;min-width:19px;min-height:19px;margin:0;vertical-align:middle;accent-color:var(--rose);}
+@media (max-width: 520px) {.checkgrid{grid-template-columns:1fr;}.checkoption{min-height:52px;}}
+.eventoria-account-link{font-weight:800;color:var(--rose-dark)!important;white-space:nowrap}
+.account-shell{max-width:860px;margin:50px auto 90px;padding:0 22px}
+.account-panel{background:white;border:1px solid var(--line);border-radius:18px;padding:28px;margin-top:20px}
+.account-tabs{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0}
+.account-tabs button.active{background:var(--rose);border-color:var(--rose);color:white}
+.account-status{padding:10px 0;color:#8f455b;font-weight:700;min-height:35px}
+.account-orders{display:grid;gap:14px;margin-top:20px}
+.account-orders article{border:1px solid var(--line);border-radius:13px;background:#fff;padding:19px;overflow-wrap:anywhere}
+.account-orders article p{color:var(--muted)}
