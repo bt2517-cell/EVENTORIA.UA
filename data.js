@@ -11,12 +11,10 @@ window.SEED_SERVICES = [
     "people": "30–150",
     "duration": "10–12 год",
     "format": "Повний день",
-    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_1_cynthia-falcon-arias-jkr1aijiojq-un_mwf8lwv0_8h13kc.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1529636798458-92182e662485?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_1_i6sddcvwlxxesgwdbntefezcqeetuji4dwz_mwciu7bw_iv1m1m.webp",
+      "assets/photos/custom/services_1_cynthia-falcon-arias-jkr1aijiojq-un_mwf8lwv0_8h13kc.jpg"
     ],
     "included": [
       "Концепція",
@@ -43,12 +41,9 @@ window.SEED_SERVICES = [
     "people": "10–35",
     "duration": "5–7 год",
     "format": "Вечірній",
-    "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_2_img-32_mwcew0y7_hqrhmi.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1529636798458-92182e662485?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_2_img-32_mwcew0y7_hqrhmi.webp"
     ],
     "included": [
       "Затишна локація",
@@ -75,12 +70,9 @@ window.SEED_SERVICES = [
     "people": "20–120",
     "duration": "2–3 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_3_16229ab3e14bdd58470cf3c799e435a0_10_mwcfm638_fz3dfr.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1529636798458-92182e662485?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_3_16229ab3e14bdd58470cf3c799e435a0_10_mwcfm638_fz3dfr.jpg"
     ],
     "included": [
       "Сценарій",
@@ -107,12 +99,9 @@ window.SEED_SERVICES = [
     "people": "25–140",
     "duration": "8–10 год",
     "format": "Повний день",
-    "image": "https://images.unsplash.com/photo-1529636798458-92182e662485?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_4_4b7491d5209ae08e1f4621e36ae0b118_mwcfpiqg_1r6ql4.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1529636798458-92182e662485?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_4_4b7491d5209ae08e1f4621e36ae0b118_mwcfpiqg_1r6ql4.webp"
     ],
     "included": [
       "Локація",
@@ -139,12 +128,9 @@ window.SEED_SERVICES = [
     "people": "20–180",
     "duration": "1 день",
     "format": "За домовленістю",
-    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_5_5c2750e58be126565e1f675e68eaab48_mwcfqjho_vnq4bt.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_5_5c2750e58be126565e1f675e68eaab48_mwcfqjho_vnq4bt.jpg"
     ],
     "included": [
       "Мудборд",
@@ -171,12 +157,9 @@ window.SEED_SERVICES = [
     "people": "30–120",
     "duration": "5–7 год",
     "format": "Вечірній",
-    "image": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_6_465c86bcc685c27e26f451c212b6d784_mwcfujaw_yfd48c.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_6_465c86bcc685c27e26f451c212b6d784_mwcfujaw_yfd48c.jpg"
     ],
     "included": [
       "Dj",
@@ -203,12 +186,9 @@ window.SEED_SERVICES = [
     "people": "20–90",
     "duration": "7–9 год",
     "format": "Повний день",
-    "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_7__2026-11-11_201610_mwcfxbut_l0t8ll.png",
     "gallery": [
-      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_7__2026-11-11_201610_mwcfxbut_l0t8ll.png"
     ],
     "included": [
       "Концепція",
@@ -235,12 +215,9 @@ window.SEED_SERVICES = [
     "people": "15–200",
     "duration": "8–12 год",
     "format": "Повний день",
-    "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_8_gemini_generated_image_cmq6hicmq6hi_mwcgrjwr_cw217f.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_8_gemini_generated_image_cmq6hicmq6hi_mwcgrjwr_cw217f.webp"
     ],
     "included": [
       "Чек-лист",
@@ -265,12 +242,9 @@ window.SEED_SERVICES = [
     "people": "40–160",
     "duration": "10–12 год",
     "format": "Повний день",
-    "image": "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_9_0df5ffb0a3c5a4c7c13468ec72614f48_mwcfzev8_ttvg5e.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_9_0df5ffb0a3c5a4c7c13468ec72614f48_mwcfzev8_ttvg5e.jpg"
     ],
     "included": [
       "Підбір комплексу",
@@ -297,12 +271,9 @@ window.SEED_SERVICES = [
     "people": "15–70",
     "duration": "3–5 год",
     "format": "Вечірній",
-    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_10_90af795965407fcd0829ac3af37dbde9_mwcg07gt_1najlu.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1529636798458-92182e662485?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_10_90af795965407fcd0829ac3af37dbde9_mwcg07gt_1najlu.webp"
     ],
     "included": [
       "Майданчик",
@@ -329,12 +300,9 @@ window.SEED_SERVICES = [
     "people": "30–200",
     "duration": "5–7 год",
     "format": "Вечірній",
-    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_11_corp20102026-1_mwcg1rqn_0vo28f.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_11_corp20102026-1_mwcg1rqn_0vo28f.jpg"
     ],
     "included": [
       "Концепція",
@@ -361,12 +329,9 @@ window.SEED_SERVICES = [
     "people": "15–100",
     "duration": "4–6 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_12_images_mwcg3ucz_aebfrr.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_12_images_mwcg3ucz_aebfrr.jpg"
     ],
     "included": [
       "Сценарій",
@@ -393,12 +358,9 @@ window.SEED_SERVICES = [
     "people": "35–240",
     "duration": "5–7 год",
     "format": "Вечірній",
-    "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_13_111-780x-d66_mwcg5011_1mk0ny.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511578314322-3799b2e4e2b8?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_13_111-780x-d66_mwcg5011_1mk0ny.jpg"
     ],
     "included": [
       "Святковий декор",
@@ -425,12 +387,9 @@ window.SEED_SERVICES = [
     "people": "40–260",
     "duration": "6–8 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_14_82480177ddaf548fb613164569df503d_mwcg6yvd_njfwuy.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511578314322-3799b2e4e2b8?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_14_82480177ddaf548fb613164569df503d_mwcg6yvd_njfwuy.jpg"
     ],
     "included": [
       "Локація",
@@ -457,12 +416,9 @@ window.SEED_SERVICES = [
     "people": "10–70",
     "duration": "2–4 год",
     "format": "Ранковий",
-    "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_15_20231003_133530_2p4a6619-min_mwcg8tex_xjmbbx.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511578314322-3799b2e4e2b8?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_15_20231003_133530_2p4a6619-min_mwcg8tex_xjmbbx.webp"
     ],
     "included": [
       "Локація",
@@ -489,12 +445,9 @@ window.SEED_SERVICES = [
     "people": "25–180",
     "duration": "3–5 год",
     "format": "Вечірній",
-    "image": "https://images.unsplash.com/photo-1511578314322-3799b2e4e2b8?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_16_9a1888e963c3482fcbbcb3df6be5ce80_mwcgay7z_qrz6d3.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1511578314322-3799b2e4e2b8?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_16_9a1888e963c3482fcbbcb3df6be5ce80_mwcgay7z_qrz6d3.jpg"
     ],
     "included": [
       "Бренд-концепція",
@@ -521,12 +474,9 @@ window.SEED_SERVICES = [
     "people": "50–400",
     "duration": "1 день",
     "format": "Повний день",
-    "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_17_56707dfc1b406b4ee01d249a8c2e9c6a_mwcgbrqo_7qoxkf.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_17_56707dfc1b406b4ee01d249a8c2e9c6a_mwcgbrqo_7qoxkf.jpg"
     ],
     "included": [
       "Реєстрація",
@@ -553,12 +503,9 @@ window.SEED_SERVICES = [
     "people": "30–250",
     "duration": "5–8 год",
     "format": "Вечірній",
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_18_948f94cd0148862926455160027ad4e0_mwcgcpaf_wbwkh9.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_18_948f94cd0148862926455160027ad4e0_mwcgcpaf_wbwkh9.webp"
     ],
     "included": [
       "Концепція",
@@ -585,12 +532,9 @@ window.SEED_SERVICES = [
     "people": "20–150",
     "duration": "4–6 год",
     "format": "Вечірній",
-    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/corporate_03.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/corporate_03.webp"
     ],
     "included": [
       "Тема",
@@ -617,12 +561,9 @@ window.SEED_SERVICES = [
     "people": "15–100",
     "duration": "3–6 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_20_fb99852a13b4910cf8377397eabf7eb1_mwcgfint_sc9wkz.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_20_fb99852a13b4910cf8377397eabf7eb1_mwcgfint_sc9wkz.jpg"
     ],
     "included": [
       "Формат",
@@ -649,12 +590,9 @@ window.SEED_SERVICES = [
     "people": "8–30",
     "duration": "2–4 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debedfc?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_21_jorge-ibanez-ck6ixoqx1fi-unsplash_mwf7qjrt_f765u6.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1530103862676-de8c9debedfc?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1502635385003-ee1e6a1a742d?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_21_jorge-ibanez-ck6ixoqx1fi-unsplash_mwf7qjrt_f765u6.jpg"
     ],
     "included": [
       "Концепція",
@@ -681,12 +619,9 @@ window.SEED_SERVICES = [
     "people": "8–28",
     "duration": "2–3 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_22_pexels-breno-cardoso-149064345-3962_mwf8ql3m_qe8ilm.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1502635385003-ee1e6a1a742d?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_22_pexels-breno-cardoso-149064345-3962_mwf8ql3m_qe8ilm.jpg"
     ],
     "included": [
       "Персонажі",
@@ -713,12 +648,9 @@ window.SEED_SERVICES = [
     "people": "10–35",
     "duration": "2–3 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1502635385003-ee1e6a1a742d?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_23_db4f844e66e29440c89d5938b0d4f696_mwcgh15v_m2q69m.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1502635385003-ee1e6a1a742d?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_23_db4f844e66e29440c89d5938b0d4f696_mwcgh15v_m2q69m.jpg"
     ],
     "included": [
       "Сценарій",
@@ -745,12 +677,9 @@ window.SEED_SERVICES = [
     "people": "10–40",
     "duration": "1–2 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/kids_science.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/kids_science.webp"
     ],
     "included": [
       "Ведучий",
@@ -777,12 +706,9 @@ window.SEED_SERVICES = [
     "people": "8–25",
     "duration": "2–3 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/kids_02.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/kids_02.webp"
     ],
     "included": [
       "Майстер",
@@ -809,12 +735,9 @@ window.SEED_SERVICES = [
     "people": "6–18",
     "duration": "3–4 год",
     "format": "Вечірній",
-    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/kids_sleepover.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/kids_sleepover.webp"
     ],
     "included": [
       "Наметики",
@@ -841,12 +764,9 @@ window.SEED_SERVICES = [
     "people": "12–45",
     "duration": "3–5 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/kids_03.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1530103862676-de8c9debedfc?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/kids_03.webp"
     ],
     "included": [
       "Локація",
@@ -873,12 +793,9 @@ window.SEED_SERVICES = [
     "people": "15–55",
     "duration": "3–4 год",
     "format": "Вечірній",
-    "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_28_gemini_generated_image_7tcec57tcec5_mwcgn5nx_okht9i.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1530103862676-de8c9debedfc?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_28_gemini_generated_image_7tcec57tcec5_mwcgn5nx_okht9i.webp"
     ],
     "included": [
       "Концепція",
@@ -905,12 +822,9 @@ window.SEED_SERVICES = [
     "people": "20–80",
     "duration": "3–4 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/kids_graduation.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1530103862676-de8c9debedfc?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1502635385003-ee1e6a1a742d?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/kids_graduation.webp"
     ],
     "included": [
       "Сценарій",
@@ -937,12 +851,9 @@ window.SEED_SERVICES = [
     "people": "30–150",
     "duration": "4–7 год",
     "format": "Денний",
-    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debedfc?auto=format&fit=crop&w=900&q=82",
+    "image": "assets/photos/custom/services_30_gemini_generated_image_umlld9umlld9_mwcgpbzu_5kig23.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1530103862676-de8c9debedfc?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1502635385003-ee1e6a1a742d?auto=format&fit=crop&w=1200&q=82",
-      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&q=82"
+      "assets/photos/custom/services_30_gemini_generated_image_umlld9umlld9_mwcgpbzu_5kig23.webp"
     ],
     "included": [
       "Зони",
@@ -963,92 +874,184 @@ window.SEED_POSTS = [
   {
     "id": 1001,
     "title": "Як народжується подія: від ідеї до свята",
-    "excerpt": "Показуємо шлях від першого дзвінка до останньої деталі.",
-    "text": "Усе починається з розмови. Ми дізнаємося, який настрій ви хочете створити, скільки гостей очікуєте та які моменти для вас найважливіші. Далі збираємо концепцію, погоджуємо бюджет, формуємо команду й план дня. Перед подією перевіряємо кожну деталь, щоб свято було цілісним та комфортним.",
-    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
+    "excerpt": "Дізнайтеся, як звичайна ідея перетворюється на продуману подію: від першого знайомства й вибору концепції до організації та проведення свята.",
+    "text": "Кожне незабутнє свято починається з ідеї. Іноді це чітке бачення майбутньої події, а іноді — лише бажання зібрати близьких людей, створити особливу атмосферу та подарувати гостям приємні емоції. Завдання команди EVENTORIA — допомогти перетворити ці побажання на продуману концепцію, у якій кожна деталь має своє місце.\n\n**Перший етап — знайомство та обговорення побажань.** Насамперед ми з’ясовуємо, яку саме подію планує клієнт, скільки гостей очікується, який бюджет передбачений і яку атмосферу хочеться створити. Для нас важливо зрозуміти не лише формат свята, а й характер людей, для яких воно організовується.\n\n**Другий етап — розроблення концепції.** На основі побажань формується загальна ідея майбутнього заходу. Ми обговорюємо стиль оформлення, колірну палітру, музику, програму, фотозони, декорації та особливі елементи, які зроблять подію індивідуальною.\n\n**Третій етап — планування та підготовка.** Після погодження концепції складається план організації. Він включає вибір локації, підбір необхідних послуг, попередній кошторис, графік підготовки та сценарій проведення. Окрему увагу приділяємо зручності гостей і логістиці.\n\n**Четвертий етап — організація свята.** У день заходу важливо, щоб усі складові працювали узгоджено. Підготовка майданчика, розміщення декорацій, робота ведучих, музичний супровід і послідовність програми повинні відповідати погодженому плану.\n\nДля кожного свята ми прагнемо знайти власну особливість. Це може бути зворушлива сімейна традиція, несподіваний сюрприз, незвичайна фотозона або авторська розважальна програма.\n\nМи віримо, що успішна подія — це не лише красиве оформлення. Це атмосфера, в якій гостям комфортно, організатори уважні до деталей, а головні учасники можуть насолоджуватися важливими моментами.\n\n**EVENTORIA — створюємо події, які хочеться згадувати.**",
+    "image": "https://plus.unsplash.com/premium_photo-1661368011571-18e5f7c2801d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "date": "2026-10-21"
   },
   {
     "id": 1002,
     "title": "5 ідей для камерного весілля",
-    "excerpt": "Затишна вечеря, сад, персональні деталі та живі квіти.",
-    "text": "Камерне весілля дає багато простору для індивідуальності. Спробуйте садову церемонію, вечерю за одним довгим столом, меню з особистою історією, живу акустичну музику або маленькі листівки для гостей. Обирайте ідеї, які близькі саме вам.",
-    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=82",
+    "excerpt": "П’ять атмосферних варіантів невеликого весілля: святкування в саду, затишному ресторані, заміському будинку та інших особливих місцях.",
+    "text": "Камерне весілля — це формат святкування для невеликого кола найближчих людей. Зазвичай на такій події присутні від 10 до 35 гостей, що дозволяє приділити більше уваги спілкуванню, особистим традиціям і деталям оформлення.\n\nНевелика кількість запрошених не означає, що свято має бути простим. Навпаки, камерне весілля може бути дуже стильним, емоційним і насиченим особливими моментами.\n\n**1. Весілля у квітучому саду**\n\nЦеремонія просто неба серед зелені та квітів — чудове рішення для пар, які цінують природну красу. Для оформлення можна використати легкі тканини, ніжну флористику, дерев’яні елементи, свічки та декоративне освітлення.\n\nПісля церемонії гості можуть перейти до святкової вечері на відкритій терасі або в затишному павільйоні. Особливої атмосфери додадуть жива музика та фотозона з природними мотивами.\n\n**2. Романтична вечеря в ресторані**\n\nДля цього формату підійде невеликий ресторан із красивим інтер’єром або окремою залою. Основну увагу можна зосередити на сервіруванні столів, квіткових композиціях, освітленні та продуманому меню.\n\nПрограма може включати привітання близьких, перший танець, перегляд сімейного відео та святковий торт.\n\n**3. Весілля в заміському будинку**\n\nЗаміський будинок або невелика садиба дозволяють провести святкування в приватній атмосфері. Тут можна організувати церемонію, вечерю, фотосесію та відпочинок без необхідності часто змінювати локації.\n\nТакий варіант особливо зручний для невеликих сімейних святкувань.\n\n**4. Весілля в стилі мінімалізм**\n\nМінімалістичне весілля вирізняється стриманими кольорами, простими формами й елегантним оформленням. Білий, молочний, бежевий і ніжно-зелений відтінки створюють відчуття легкості.\n\nОсновними акцентами можуть стати стильна церемоніальна зона, авторська флористика та сучасне освітлення.\n\n**5. Весілля із сімейними традиціями**\n\nОсобливо зворушливим може стати святкування, побудоване навколо історії пари та її родини. У програму можна включити сімейні фотографії, відеопривітання, символічні подарунки та традиції, важливі для молодят.\n\nНезалежно від обраного формату, важливо заздалегідь продумати локацію, кількість гостей, меню, тривалість заходу та комфорт усіх учасників.\n\n**Команда EVENTORIA допоможе сформувати концепцію камерного весілля, яке відповідатиме побажанням пари, обраному стилю та бюджету.**",
+    "image": "assets/photos/wedding_01.webp",
     "date": "2026-10-06"
   },
   {
     "id": 1003,
     "title": "Як обрати формат корпоративу",
-    "excerpt": "Розбираємося, коли потрібен тимбілдинг, а коли святкова вечірка.",
-    "text": "Якщо мета — знайомство й взаємодія, обирайте легкий тімбілдинг або командний творчий формат. Щоб відзначити досягнення, підійде святковий вечір. Для презентації продукту потрібні зовсім інші акценти: техніка, маршрут гостей та демонстраційні зони.",
-    "image": "https://images.unsplash.com/photo-1511578314322-3799b2e4e2b8?auto=format&fit=crop&w=1200&q=82",
+    "excerpt": "Корпоратив може бути не лише вечіркою. Розповідаємо про тімбілдинги, святкові вечори, виїзні заходи та бізнес-події, які можна організувати для команди.",
+    "text": "Корпоративний захід — це можливість не лише відпочити разом із колегами, а й покращити атмосферу в колективі, відзначити досягнення компанії та створити нові спільні враження.\n\nЩоб корпоратив справді сподобався учасникам, важливо правильно визначити його мету. Для однієї компанії найкращим рішенням стане святкова вечірка, для іншої — активний тімбілдинг або неформальна зустріч поза офісом.\n\n**Корпоративна вечірка**\n\nОдин із найпопулярніших форматів, який підходить для святкування річниці компанії, завершення року або важливого досягнення.\n\nПрограма може включати урочисту частину, привітання працівників, святкову вечерю, музичний супровід, фотозону та розважальні активності.\n\nЗалежно від кількості гостей та наповнення програми такий захід може тривати приблизно 4–7 годин.\n\n**Тімбілдинг на природі**\n\nЦей формат орієнтований на командну взаємодію. Учасники можуть виконувати спільні завдання, проходити тематичні квести, брати участь у творчих заняттях або розв’язувати нестандартні командні задачі.\n\nДля проведення підійдуть заміські комплекси, облаштовані зелені території та спеціальні майданчики для групових активностей.\n\nПрограму варто підбирати так, щоб вона враховувала різний вік, інтереси та фізичні можливості учасників.\n\n**Тематичний корпоратив**\n\nОсобливий настрій створюють заходи з єдиною концепцією. Це може бути вечір у стилі кіно, ретровечірка, музичне святкування або елегантна вечеря з визначеним дрескодом.\n\nТематичність проявляється в оформленні залу, музиці, програмі, запрошеннях і деталях декору.\n\n**Бізнес-подія або презентація**\n\nКорпоративні заходи не обов’язково мають розважальний характер. Компанії можуть організовувати конференції, презентації продуктів, професійні зустрічі та бізнес-сніданки.\n\nДля таких подій особливо важливими є технічне забезпечення, чіткий таймінг, комфортне розміщення учасників і зручна локація.\n\n**На що звернути увагу під час вибору?**\n\nПеред організацією корпоративу рекомендується визначити кількість учасників, бюджет, дату, бажану тривалість і формат програми. Варто врахувати транспортну доступність місця проведення, харчування, технічні потреби та можливі побажання працівників.\n\nПравильно підібраний формат допомагає створити подію, у якій кожен учасник почуватиметься комфортно.\n\n**EVENTORIA допомагає розробляти концепції корпоративних заходів відповідно до цілей компанії, особливостей команди та побажань замовника.**",
+    "image": "https://images.pexels.com/photos/3856033/pexels-photo-3856033.jpeg",
     "date": "2026-09-18"
   },
   {
     "id": 1004,
     "title": "Свято для дітей: комфорт і захоплення",
-    "excerpt": "Плануємо програму з урахуванням віку, часу і відпочинку.",
-    "text": "Щоб діти насолоджувалися святом, чергуйте активні та спокійні заняття, виділіть місце для води й перекусу та залиште простір для вільної гри. Найкраще працює зрозумілий сценарій, доброзичливі ведучі й продумана тривалість.",
-    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debedfc?auto=format&fit=crop&w=1200&q=82",
+    "excerpt": "Як організувати дитяче свято, яке поєднає цікаві розваги, яскраве оформлення та комфорт для маленьких гостей і їхніх батьків.",
+    "text": "Дитячий день народження — це особлива подія, наповнена радістю, новими враженнями та яскравими емоціями. Для дітей важливо не лише отримати подарунки, а й провести час у цікавій атмосфері, пограти з друзями та відчути себе головними героями свята.\n\nВодночас організація дитячого заходу потребує уважного ставлення до віку учасників, тривалості програми, умов проведення та комфорту гостей.\n\n**Вибір тематики**\n\nПочинати підготовку варто з інтересів іменинника. Одним дітям подобаються казкові персонажі та чарівні історії, іншим — творчість, пригоди, наукові експерименти або спортивні ігри.\n\nТематика допомагає об’єднати всі елементи свята: оформлення приміщення, запрошення, розваги, фотозону, святковий торт і музичний супровід.\n\n**Цікава та різноманітна програма**\n\nЩоб гості не втомлювалися від одноманітних занять, програму можна побудувати з кількох частин.\n\nНаприклад, свято може розпочинатися зі знайомства та нескладних ігор, після чого діти беруть участь у тематичному квесті, творчому майстер-класі або інтерактивній виставі.\n\nДалі можна передбачити час для частування, фотографування, вільного спілкування та урочистого винесення торта.\n\n**Оформлення святкового простору**\n\nДекор допомагає створити атмосферу ще до початку розважальної програми. Кульки, тематичні композиції, фотозони, святковий стіл та яскраві деталі роблять простір особливим.\n\nВажливо, щоб оформлення було не лише красивим, а й практичним. Ігрові зони повинні залишатися достатньо просторими, а декорації — відповідати віку дітей та умовам безпеки.\n\n**Комфорт і тривалість заходу**\n\nДля молодших дітей часто достатньо програми приблизно на 2–3 години. Для старших можна передбачити більш тривале святкування з кількома активностями.\n\nТочний час залежить від віку гостей, формату події та обраної локації.\n\nБажано чергувати рухливі ігри зі спокійнішими заняттями, передбачати питну воду, місце для відпочинку та можливість звернутися до дорослих. Меню варто узгоджувати з батьками, зокрема враховуючи можливі харчові алергії.\n\n**Свято за індивідуальним сценарієм**\n\nКожна дитина має власні захоплення, тому найцікавіші події часто народжуються з особистих побажань.\n\nЦе може бути вечірка маленьких дослідників, казковий бал, творча майстерня, піратська пригода, піжамна вечірка або тематичне святкування на природі.\n\n**EVENTORIA допомагає об’єднати оформлення, розваги та продуману організацію, щоб дитяче свято було яскравим, цікавим і комфортним для всієї родини.**",
+    "image": "https://images.pexels.com/photos/7100317/pexels-photo-7100317.jpeg",
     "date": "2026-09-02"
   }
 ];
 window.SEED_PORTFOLIO = [
   {
-    "id": 2001,
     "title": "Весілля в квітучому саду",
-    "text": "Ніжна флористика, світло та затишні сімейні моменти",
-    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=82",
-    "category": "Весілля"
+    "category": "Весілля",
+    "image": "assets/photos/custom/portfolio_2001_c5b0d811cab3921432fec6db962a4273_mwcgu8fs_exzq1k.jpg",
+    "gallery": [
+      "assets/photos/custom/portfolio_2001_a20d7b131c107bf44212dc1324b455f4_mwcguq6x_gh22ie.jpg",
+      "assets/photos/custom/portfolio_2001_c5b0d811cab3921432fec6db962a4273_mwcgu8fs_exzq1k.jpg",
+      "assets/photos/custom/portfolio_2001_034fbaf6895bddd6fe8319d38c398345_mwcguj8t_pgkjrw.jpg",
+      "assets/photos/custom/portfolio_2001_volodymyr-lymariev-7ag36dnf_e0-unsp_mwf7esda_mk49fx.jpg",
+      "assets/photos/custom/portfolio_2001_bruno-ngarukiye-olodsvw5thi-unsplas_mwf7esjj_gp1zby.jpg",
+      "assets/photos/custom/portfolio_2001_khrystyna-shevtsiv-0ufg3dkjvcu-unsp_mwf7eslj_2ee5jm.jpg",
+      "assets/photos/custom/portfolio_2001_lucas-t-photography-tnm8vpfqvts-uns_mwf7espc_c1xn59.jpg",
+      "assets/photos/custom/portfolio_2001_malia-moore-nyqi_13zl3a-unsplash_mwf7esy3_yh8gv8.jpg"
+    ],
+    "text": "Романтичне весілля просто неба, де природна краса поєднується з вишуканим оформленням. Квіткові композиції, ніжна колірна палітра, декоративне освітлення та елегантна церемоніальна арка створюють особливу атмосферу. Після урочистої церемонії гості можуть насолодитися святковою вечерею, живою музикою та затишним спілкуванням серед зелені. Особливу увагу приділяємо оформленню фотозон, сервіруванню столів і деталям, які відображають історію молодят. Такий формат ідеально підходить для весілля в теплу пору року.",
+    "id": 2001
   },
   {
-    "id": 2002,
     "title": "Банкет з теплим світлом",
-    "text": "Вечірній сценарій з особливою атмосферою",
-    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=82",
-    "category": "Корпоративи"
+    "category": "Корпоративи",
+    "image": "assets/photos/custom/portfolio_2002_53aaf181719ab2e2f9154ebafeaa900d_mwcgx9kf_of6v8n.jpg",
+    "gallery": [
+      "assets/photos/custom/portfolio_2002_53aaf181719ab2e2f9154ebafeaa900d_mwcgx9kf_of6v8n.jpg",
+      "assets/photos/custom/portfolio_2002_8d8144282290ce555b0c21b4f3ecc84c_mwcgxenb_2x6gzq.jpg",
+      "assets/photos/custom/portfolio_2002_612ad20c4b74495ed2718f61d6107518_mwcgxjyh_x8gxrx.jpg",
+      "assets/photos/custom/portfolio_2002_brunxs-5pnmurc73jq-unsplash_mwf7g3uw_cjl2ly.jpg",
+      "assets/photos/custom/portfolio_2002_filip-rankovic-grobgaard-818w6vv7_c_mwf7g3zd_1ppp7b.jpg",
+      "assets/photos/custom/portfolio_2002_joshua-manjgo-5rfyq9urdx0-unsplash_mwf7g46e_yv4i6m.jpg",
+      "assets/photos/custom/portfolio_2002_justin-chien-m_cays0aboe-unsplash_mwf7g4f5_w3sqrw.jpg",
+      "assets/photos/custom/portfolio_2002_katie-puzatova-w9hsioe2zc4-unsplash_mwf7g4i0_cw1etk.jpg"
+    ],
+    "text": "Елегантний святковий банкет із затишною атмосферою та продуманим оформленням простору. М’яке освітлення, декоративні свічки, квіткові композиції та стильне сервірування столів створюють відчуття тепла й особливого комфорту. Програма заходу може включати урочисті привітання, святкову вечерю, музичні виступи, фотосесію та розважальну частину. Оформлення адаптується до тематики події, кількості гостей і побажань замовника. Такий формат чудово підходить для корпоративних вечорів, ювілеїв, сімейних святкувань та інших урочистих подій.",
+    "id": 2002
   },
   {
-    "id": 2003,
     "title": "Казковий день народження",
-    "text": "Кольори, декор і яскрава святкова фотозона",
-    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debedfc?auto=format&fit=crop&w=1200&q=82",
-    "category": "Дитячі свята"
+    "category": "Дитячі свята",
+    "image": "assets/photos/custom/portfolio_2003_gemini_generated_image_uojzrzuojzrz_mwch1g9d_llddol.webp",
+    "gallery": [
+      "assets/photos/custom/portfolio_2003_gemini_generated_image_uojzrzuojzrz_mwch1g9d_llddol.webp",
+      "assets/photos/custom/portfolio_2003_gemini_generated_image_uojzrzuojzrz_mwch1g9r_8fr7cj.webp",
+      "assets/photos/custom/portfolio_2003_gemini_generated_image_uojzrzuojzrz_mwch1ga6_a4hpng.webp",
+      "assets/photos/custom/portfolio_2003_alba-rebecca--un5ceygjqi-unsplash_mwf7h925_wpo8dd.jpg",
+      "assets/photos/custom/portfolio_2003_alexander-mass-yv8ieknhzns-unsplash_mwf7h9bo_m51p7q.jpg",
+      "assets/photos/custom/portfolio_2003_jose-marroquin-beh2fqbf9ta-unsplash_mwf7h9kx_jcd75w.jpg",
+      "assets/photos/custom/portfolio_2003_samuel-lopez-cruz-zvn9yzzfpec-unspl_mwf7ha53_5tresz.jpg",
+      "assets/photos/custom/portfolio_2003_tumble-house-4vgvhzhvqos-unsplash_mwf7hab2_dltnwx.jpg",
+      "assets/photos/custom/portfolio_2003_tumble-house-o-thnreb3qi-unsplash_mwf7haja_60hqio.jpg",
+      "assets/photos/custom/portfolio_2003_tumble-house-pfkc2zfhbmi-unsplash_mwf7haou_ewg6q6.jpg",
+      "assets/photos/custom/portfolio_2003_tumble-house-rzgqsadvcwu-unsplash_mwf7hatr_o4yiug.jpg"
+    ],
+    "text": "Яскраве дитяче свято, яке перетворює улюблені казки та мрії дитини на захопливу пригоду. Тематичні декорації, повітряні кульки, святкова фотозона, красивий солодкий стіл і улюблені персонажі створюють чарівну атмосферу. Для маленьких гостей можна організувати інтерактивні ігри, творчі майстер-класи, тематичні квести й веселі конкурси відповідно до віку. Особливим моментом свята стане урочисте привітання іменинника та святковий торт. Програму й оформлення підбираємо індивідуально, враховуючи захоплення дитини та побажання батьків.",
+    "id": 2003
   },
   {
-    "id": 2004,
     "title": "Камерна весільна вечеря",
-    "text": "Естетика делікатних деталей і тепло близьких",
-    "image": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1200&q=82",
-    "category": "Весілля"
+    "category": "Весілля",
+    "image": "assets/photos/custom/portfolio_2004_30b1f50550d88757672b397eda8a6e9d_mwch88pm_zk67bw.jpg",
+    "gallery": [
+      "assets/photos/custom/portfolio_2004_30b1f50550d88757672b397eda8a6e9d_mwch88pm_zk67bw.jpg",
+      "assets/photos/custom/portfolio_2004_gemini_generated_image_cj9ij6cj9ij6_mwch7tpk_q04qwg.webp",
+      "assets/photos/custom/portfolio_2004_78de06fafc56e21db9f0bd550fa9fbec_mwch839x_m6yqx9.jpg",
+      "assets/photos/custom/portfolio_2004_andrii-solok-woue_isymnu-unsplash_mwf7i5d1_n74ceu.jpg",
+      "assets/photos/custom/portfolio_2004_anne-nygard--kodgfgpypq-unsplash_mwf7i5h9_onikuk.jpg",
+      "assets/photos/custom/portfolio_2004_bruno-ngarukiye-3nj-jsgwjvg-unsplas_mwf7i5n3_kx9aob.jpg",
+      "assets/photos/custom/portfolio_2004_katie-puzatova-g4tibj7wi0q-unsplash_mwf7i5p3_nyrmqw.jpg",
+      "assets/photos/custom/portfolio_2004_robert-vasquez-9-k1jumn07k-unsplash_mwf7i5wb_6tni38.jpg",
+      "assets/photos/custom/portfolio_2004_tetiana-thiel-xgyb1oxcdg8-unsplash_mwf7i6dk_p0ycc8.jpg"
+    ],
+    "text": "Затишне весільне святкування для найближчих людей, у якому головну роль відіграють щирі емоції та тепла сімейна атмосфера. Невелика кількість гостей дозволяє приділити особливу увагу деталям: витонченому сервіруванню столів, ніжній флористиці, освітленню та персоналізованому декору. Програма може включати романтичну церемонію, святкову вечерю, привітання рідних, перший танець і символічні сімейні традиції. Для проведення підійдуть невеликий ресторан, заміська садиба або тераса з красивим краєвидом. Такий формат створює простір для неспішного спілкування та незабутніх моментів.",
+    "id": 2004
   },
   {
-    "id": 2005,
     "title": "Бренд-подія з характером",
-    "text": "Простір, що підкреслює ідею компанії",
-    "image": "https://images.unsplash.com/photo-1511578314322-3799b2e4e2b8?auto=format&fit=crop&w=1200&q=82",
-    "category": "Корпоративи"
+    "category": "Корпоративи",
+    "image": "assets/photos/custom/portfolio_2005_ela-de-pure-aakxlmdt4vc-unsplash_mwf7jb8n_funrmc.jpg",
+    "gallery": [
+      "assets/photos/custom/portfolio_2005_f4a41343e55a7ead2920b3753e2fca50_mwchec4k_loewvb.jpg",
+      "assets/photos/corporate_03.webp",
+      "assets/photos/custom/portfolio_2005_4cfbcbcfeb2f98323633571c808c7d30_mwchdtui_3ytg22.jpg",
+      "assets/photos/corporate_02.webp",
+      "assets/photos/custom/portfolio_2005_carlos-gil-asxojcsar4g-unsplash_mwf7jb0k_km6ji8.jpg",
+      "assets/photos/custom/portfolio_2005_carlos-gil-cvg2lnwbm8s-unsplash_mwf7jb2s_2uvmfr.jpg",
+      "assets/photos/custom/portfolio_2005_ela-de-pure-aakxlmdt4vc-unsplash_mwf7jb8n_funrmc.jpg",
+      "assets/photos/custom/portfolio_2005_olena-kholina-osudfn4vtla-unsplash_mwf7jbby_2j1m19.jpg",
+      "assets/photos/custom/portfolio_2005_rawkkim-ha1sl7bfcvi-unsplash_mwf7jbn3_3qfbzv.jpg"
+    ],
+    "text": "Сучасний корпоративний захід, створений для яскравої презентації бренду, нового продукту або важливої події в житті компанії. Концепція оформлення розробляється відповідно до фірмового стилю, цінностей і характеру бренду. Тематичні фотозони, брендовані елементи, професійне освітлення, мультимедійні презентації та продумана програма допомагають створити цілісне враження. Захід може включати виступи спікерів, демонстрацію продукції, інтерактивні активності, спілкування з гостями та фуршет. Особлива увага приділяється технічній підготовці, комфорту учасників і послідовності проведення програми.",
+    "id": 2005
   },
   {
-    "id": 2006,
     "title": "Літня вечірка",
-    "text": "Свіжа палітра і легкий настрій",
-    "image": "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=82",
-    "category": "Корпоративи"
+    "category": "Корпоративи",
+    "image": "assets/photos/custom/portfolio_2006_8f05350be062ecfe601ebaeda45e8d76_mwchlvvo_jiwihf.jpg",
+    "gallery": [
+      "assets/photos/custom/portfolio_2006_8f05350be062ecfe601ebaeda45e8d76_mwchlvvo_jiwihf.jpg",
+      "assets/photos/custom/portfolio_2006_f8445050f74818e9e285e046bd7fa49d_mwchmdae_wke7c4.jpg",
+      "assets/photos/custom/portfolio_2006_2f5e2400bc52548db875a904008e08cf_mwchn40r_itnkk1.jpg",
+      "assets/photos/custom/portfolio_2006_bruno-ngarukiye-3j-n9vvdcyw-unsplas_mwf7kgb9_s29ppm.jpg",
+      "assets/photos/custom/portfolio_2006_david-trinks-ribvqxuisgg-unsplash_mwf7kgha_d7k8oq.jpg",
+      "assets/photos/custom/portfolio_2006_bruno-ngarukiye-gnmyq9e3g_0-unsplas_mwf7kgd6_5slnay.jpg",
+      "assets/photos/custom/portfolio_2006_bruno-ngarukiye-rqz9f0ihoco-unsplas_mwf7kgf8_csjrfe.jpg",
+      "assets/photos/custom/portfolio_2006_liana-s-n6b_6a0azv8-unsplash_mwf7kgk3_ensi7g.jpg",
+      "assets/photos/custom/portfolio_2006_milla-huyskens-g-tdtxc1vde-unsplash_mwf7kgrc_vwryd1.jpg"
+    ],
+    "text": "Легка й атмосферна вечірка просто неба, наповнена яскравими кольорами, музикою та приємними емоціями. Для проведення можна обрати літню терасу, зелений сад, заміський комплекс або облаштований майданчик біля води. Декоративні гірлянди, зручні лаунж-зони, сезонна флористика та тематичні фотозони створюють стильний простір для відпочинку. Програма може включати виступ діджея, інтерактивні розваги, тематичні ігри, фуршет і танцювальну частину. Такий формат підходить для корпоративних зустрічей, днів народження, вечірок із друзями та святкувань особливих подій.",
+    "id": 2006
   },
   {
-    "id": 2007,
     "title": "Свято для маленьких мрійників",
-    "text": "Дружні ігри і натхненне оформлення",
-    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=82",
-    "category": "Дитячі свята"
+    "category": "Дитячі свята",
+    "image": "assets/photos/custom/portfolio_2007___mwchwn4p_p40c4f.webp",
+    "gallery": [
+      "assets/photos/custom/portfolio_2007___mwchwn4p_p40c4f.webp",
+      "assets/photos/custom/portfolio_2007_asdrubal-luna-5z9uab-a5l0-unsplash_mwf7l98i_77m2q4.jpg",
+      "assets/photos/custom/portfolio_2007_c5d463c0-4b78-4675-930c-63c75ed8c08_mwchsw2n_48zc0u.webp",
+      "assets/photos/custom/portfolio_2007_john-renzzel-ufe1oelerpk-unsplash_mwf7l9g6_mmtwom.jpg",
+      "assets/photos/custom/portfolio_2007_jorge-ibanez-ck6ixoqx1fi-unsplash_mwf7l9ic_88q89i.jpg",
+      "assets/photos/custom/portfolio_2007_jose-marroquin-cfz5r15fkdu-unsplash_mwf7l9n4_20ppnp.jpg",
+      "assets/photos/custom/portfolio_2007_3b507613-e90a-4501-91e8-a02e4ba8538_mwchsp1v_osyp0p.webp",
+      "assets/photos/custom/portfolio_2007_mcfollis-gdbtxznrzwk-unsplash_mwf7l9pb_7o6on7.jpg",
+      "assets/photos/custom/portfolio_2007_nataliia-hordiiuk-cqis8ekxdug-unspl_mwf7l9ya_04rh8o.jpg",
+      "assets/photos/custom/portfolio_2007_robert-vasquez-ry0shlldp2e-unsplash_mwf7labz_3wq767.jpg",
+      "assets/photos/custom/portfolio_2007_sadiq-abdulmalik-qp2e6j1m-ya-unspla_mwf7lalr_hsxvca.jpg"
+    ],
+    "text": "Чарівне дитяче свято, наповнене щирими усмішками, веселими іграми та незабутніми враженнями. Основна ідея заходу — створити особливий простір, у якому кожна дитина зможе відчути себе героєм улюбленої казки. Ніжне оформлення, повітряні кульки, тематичні декорації, святкові фотозони та яскраві деталі створюють атмосферу радості й захоплення. Програма може включати інтерактивні ігри з аніматорами, танцювальні розваги, творчі майстер-класи, цікаві конкурси та захопливі тематичні завдання. Для маленьких гостей передбачаються зручні зони відпочинку, святковий стіл із частуваннями та місце для фотографування. Особливим моментом стає урочисте привітання іменинника, винесення святкового торта та спільне святкування з друзями. Тематика, тривалість і наповнення заходу підбираються з урахуванням віку дітей, їхніх захоплень та побажань батьків. Такий формат чудово підходить для днів народження, тематичних вечірок і сімейних святкувань.",
+    "id": 2007
   },
   {
-    "id": 2008,
     "title": "Церемонія просто неба",
-    "text": "Квіти, природні мотиви і особлива локація",
-    "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=82",
-    "category": "Весілля"
+    "category": "Весілля",
+    "image": "assets/photos/custom/portfolio_2008_735445b44f2a4c9ff0044402823247a9_mwci2a62_scubxd.webp",
+    "gallery": [
+      "assets/photos/custom/portfolio_2008_735445b44f2a4c9ff0044402823247a9_mwci2a62_scubxd.webp",
+      "assets/photos/custom/portfolio_2008_0ff82d7753d825fb44531adb9eb351ec_mwci1p7x_m2ocbd.jpg",
+      "assets/photos/custom/portfolio_2008_76105edb575f72c7457ff0fb67d8c289_mwci1y9t_bqf9ga.jpg",
+      "assets/photos/custom/portfolio_2008_alexander-mass-77-mncbsotu-unsplash_mwf7mx7y_2712gl.jpg",
+      "assets/photos/custom/portfolio_2008_andres-molina-3bzeidjq4po-unsplash_mwf7mxhu_dyqja6.jpg",
+      "assets/photos/custom/portfolio_2008_jonathan-borba-eqcrrfdlits-unsplash_mwf7mxpd_3826p8.jpg",
+      "assets/photos/custom/portfolio_2008_jose-marroquin-_4rtoll0qjs-unsplash_mwf7mxxx_k36c89.jpg",
+      "assets/photos/custom/portfolio_2008_jose-marroquin-bitxvihpkse-unsplash_mwf7mxzw_7y89q6.jpg",
+      "assets/photos/custom/portfolio_2008_paul-lichtblau-wweixpbhn3i-unsplash_mwf7my2u_ifceb4.jpg",
+      "assets/photos/custom/portfolio_2008_taylor-thompson-1zpoggqmh3k-unsplas_mwf7mypt_m5m0cm.jpg",
+      "assets/photos/custom/portfolio_2008_vidit-goswami-v8v4v7cyegk-unsplash_mwf7myxy_qphlbw.jpg"
+    ],
+    "text": "Романтична весільна церемонія на відкритому повітрі, де краса природи стає невіддільною частиною особливого моменту. Для проведення можна обрати мальовничий сад, зелену галявину, заміську садибу, терасу з краєвидом або спеціально облаштований майданчик біля водойми. Центральним елементом оформлення виступає церемоніальна арка, прикрашена живими квітами, зеленню та легкими тканинами, які гармонійно доповнюють природне оточення. Простір для гостей оформлюється елегантними стільцями, квітковими композиціями, декоративними доріжками та ніжними акцентами. Програма може включати урочистий вихід молодят, обмін обітницями, символічну церемонію, музичний супровід і привітання найближчих людей. Після завершення офіційної частини можна організувати фотосесію, легкий фуршет або святкову вечерю. Особливу увагу приділяємо розташуванню гостей, зручності локації, освітленню та запасному плану на випадок несприятливої погоди. Такий формат дозволяє створити теплу, емоційну атмосферу й підкреслити індивідуальність кожної пари.",
+    "id": 2008
   }
 ];
 window.SEED_MANAGER = {
@@ -1058,7 +1061,7 @@ window.SEED_MANAGER = {
   "email": "hello@eventoria.ua",
   "instagram": "@eventoria.studio",
   "hours": "Пн–Сб · 10:00–19:00",
-  "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=1200&q=82",
+  "photo": "assets/photos/manager.jpg",
   "bio": "Допоможу підібрати формат, скласти план підготовки та знайти ідеї для вашого свята."
 };
 window.SEED_SETTINGS = {
@@ -1069,7 +1072,6 @@ window.SEED_SETTINGS = {
   "customTitle": "Є ідея, якої немає в каталозі?",
   "customText": "Запропонуйте власний формат — від сімейного пікніка й вечірки-сюрпризу до благодійного заходу або фестивалю. Підготуємо концепцію саме для вас."
 };
-
 // EVENTORIA V8: тільки справді відмінні локальні джерела (без копій під іншими іменами).
 window.EVENTORIA_LOCAL_PHOTOS={
   'Весілля':['wedding_01.webp','wedding_02.webp','wedding_03.webp','wedding_04.webp'].map(x=>'assets/photos/'+x),
@@ -1323,6 +1325,4 @@ window.EVENTORIA_PORTFOLIO_MEDIA={
   }
 };
 window.SEED_PORTFOLIO.forEach(p=>{const m=window.EVENTORIA_PORTFOLIO_MEDIA[String(p.id)];if(m){p.image=m.image;p.gallery=[...m.gallery]}});
-const postImages=['assets/photos/wedding_02.webp','assets/photos/wedding_03.webp','assets/photos/corporate_02.webp','assets/photos/kids_01.webp'];
-window.SEED_POSTS.forEach((p,i)=>p.image=postImages[i%postImages.length]);
 window.SEED_MANAGER.photo='assets/photos/manager.jpg';

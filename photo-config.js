@@ -1,4 +1,4 @@
-/* EVENTORIA: фото, відредаговані в адмінпанелі. */
+/* Збережені користувачем фотографії EVENTORIA; 13.11.2026 */
 window.EVENTORIA_PHOTO_CONFIG = {
   "services": {
     "1": {
