@@ -265,3 +265,19 @@ h2 em,h1 em{color:var(--rose);font-weight:400}
 @media(max-width:980px){.nav-cta{display:none}.links{gap:6px}.hero-premium h1{font-size:clamp(37px,5vw,57px)}.hero-premium .hero-media>img{min-height:450px}.hero-premium .hero-media{min-height:450px}.about-hero-grid{gap:34px}.req-grid{grid-template-columns:repeat(2,1fr)}.contact-layout{gap:35px}.process-extended{grid-template-columns:repeat(2,1fr)}.event-flow{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:760px){.section{padding:60px 0}.topbar{gap:10px;font-size:9px;flex-wrap:wrap}.topbar a{display:none}.hero-premium{grid-template-columns:minmax(0,1fr);gap:34px;padding:44px 0 45px}.hero-premium h1{font-size:clamp(40px,8vw,64px)}.hero-premium .hero-media{min-height:355px;max-width:530px;margin:auto;width:100%}.hero-premium .hero-media>img{height:370px;min-height:0}.hero-premium .hero-seal{width:114px;height:114px;bottom:40px;left:-10px}.hero-premium .hero-seal span{font-size:11px}.hero-premium .hero-seal b{font-size:20px}.hero-image-caption{left:20px}.marquee{font-size:9px}.editorial-two,.about-hero-grid,.about-statement,.dark-cta,.contact-layout,.event-extras{grid-template-columns:minmax(0,1fr)}.editorial-two{gap:45px}.intro-visual>img{height:360px}.intro-stamp{width:125px;height:125px;font-size:13px;bottom:-15px;left:-6px}.about-hero{padding:45px 0}.about-hero-photo>img{height:360px}.process-extended{grid-template-columns:repeat(2,minmax(0,1fr))}.req-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.contact-hero{padding:60px 0}.contact-star{font-size:120px}.event-detail{grid-template-columns:minmax(0,1fr)}.event-detail .gallerymain{height:300px}.event-flow{grid-template-columns:repeat(2,minmax(0,1fr))}.detail-cta{flex-direction:column;align-items:stretch}.footer-head{flex-direction:column;align-items:stretch}}
 @media(max-width:520px){.topbar{min-height:28px;font-size:8px}.hero-premium{padding-top:33px}.hero-premium h1{font-size:clamp(37px,9.5vw,53px)}.hero-premium .intro{font-size:13px}.hero-premium .hero-media{min-height:290px}.hero-premium .hero-media>img{height:310px;min-height:0;border-radius:155px 155px 15px 15px}.hero-premium .hero-seal{bottom:25px}.hero-image-caption{bottom:13px;font-size:9px}.hero-image-caption span{max-width:145px;text-align:right}.categorytile{min-height:310px}.dark-cta-accent{display:none}.process-extended,.req-grid,.contact-options,.event-flow{grid-template-columns:minmax(0,1fr)}.about-hero h1{font-size:44px}.contact-hero h1{font-size:48px}.contact-star{display:none}.manager-feature .managerphoto{height:280px}.event-program{padding:23px 16px;margin-top:24px}.section-minihead h3{font-size:28px}.detail-cta{padding:22px 17px}.event-detail .gallerymain{height:250px}.event-detail .detailspec{grid-template-columns:repeat(2,minmax(0,1fr))}.event-extras{gap:14px}.event-extras section{padding:20px}.footer-head{gap:19px}.footer-head .btn{align-self:start}.about-photo-quote{font-size:16px}.brief-side{position:static}.contact-options a{padding:25px}.faq-list details{padding:0 17px}.faq-list summary{font-size:13px;line-height:1.5;padding:15px 0}.intro-visual>img{height:300px}.marquee .wrap{width:100%}}
+
+/* Виправлення декоративних символів на телефонах */
+@media (max-width: 760px) {
+  .dark-section::before {
+    content: none !important;
+    display: none !important;
+  }
+
+  .dark-cta-accent {
+    display: none !important;
+  }
+
+  .brief-side-mark {
+    display: none !important;
+  }
+}
